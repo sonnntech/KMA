@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.3" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.3" pages="5">
   <diagram name="Page-1" id="yPN6lRDnW7HByP8aWJCt">
     <mxGraphModel dx="2146" dy="1113" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1509,7 +1509,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wPJsriYVtZ7mAt4ERdD3" name="fct_external_voucher">
-    <mxGraphModel dx="2376" dy="1709" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3575" dy="2304" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2614,8 +2614,208 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oxJzgmRBsjB9T_WdGq3n-246" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div style=&quot;background-color:#ffffff;padding:0px 0px 0px 2px;&quot;&gt;&lt;div style=&quot;font-family: Monospace; font-size: 12pt; white-space: pre;&quot;&gt;&lt;p style=&quot;margin:0;&quot;&gt;&lt;span style=&quot;color:#000080;font-weight:bold;&quot;&gt;JSONExtractFloat&lt;/span&gt;(&lt;span style=&quot;color:#006464;&quot;&gt;metadata&lt;/span&gt;, &lt;span style=&quot;color:#008000;&quot;&gt;&#39;external_provider_discount_percent&#39;&lt;/span&gt;)&lt;/p&gt;&lt;p style=&quot;margin:0;&quot;&gt; &lt;span style=&quot;color:#800000;font-weight:bold;&quot;&gt;AS&lt;/span&gt; &lt;span style=&quot;font-style: italic; text-decoration-line: underline; text-decoration-style: solid; text-decoration-color: rgb(0, 102, 204); color: rgb(0, 102, 204);&quot;&gt;connection_rate&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="oxJzgmRBsjB9T_WdGq3n-246" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;background-color:#ffffff;padding:0px 0px 0px 2px;&quot;&gt;&lt;div style=&quot;font-family: Monospace; font-size: 12pt; white-space: pre;&quot;&gt;&lt;p style=&quot;margin:0;&quot;&gt;&lt;span style=&quot;color:#000080;font-weight:bold;&quot;&gt;JSONExtractFloat&lt;/span&gt;(&lt;span style=&quot;color:#006464;&quot;&gt;metadata&lt;/span&gt;, &lt;span style=&quot;color:#008000;&quot;&gt;&#39;external_provider_discount_percent&#39;&lt;/span&gt;)&lt;/p&gt;&lt;p style=&quot;margin:0;&quot;&gt; &lt;span style=&quot;color:#800000;font-weight:bold;&quot;&gt;AS&lt;/span&gt; &lt;span style=&quot;font-style: italic; text-decoration-line: underline; text-decoration-style: solid; text-decoration-color: rgb(0, 102, 204); color: rgb(0, 102, 204);&quot;&gt;connection_rate&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="637" width="871" x="-371" y="-321" as="geometry" />
+        </mxCell>
+        <mxCell id="_jpgow_8wQO7j4l4jVak-1" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(36, 36, 36); font-family: &amp;quot;Cascadia Mono&amp;quot;, Consolas, ui-monospace, Menlo, Monaco, monospace; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;voucher_db.voucher_purchased&lt;/span&gt;" vertex="1">
+          <mxGeometry height="39" width="264" x="811.0033333333334" y="910" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Pge5rWPA3_IMNiZpibIU" name="gamification">
+    <mxGraphModel dx="1680" dy="1113" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7RZKgYpP7ZHnl5moSX_E" name="Page-5">
+    <mxGraphModel dx="2225" dy="1572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-3" edge="1" parent="1" source="gmlaA_HC_U7XU0nnLH1S-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#eeeeee;strokeColor=#36393d;" target="gmlaA_HC_U7XU0nnLH1S-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-5" edge="1" parent="1" source="gmlaA_HC_U7XU0nnLH1S-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#eeeeee;strokeColor=#36393d;" target="gmlaA_HC_U7XU0nnLH1S-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-7" edge="1" parent="1" source="gmlaA_HC_U7XU0nnLH1S-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#eeeeee;strokeColor=#36393d;" target="gmlaA_HC_U7XU0nnLH1S-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" value="Domain" vertex="1">
+          <mxGeometry height="60" width="120" x="-417" y="-201" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-10" edge="1" parent="1" source="gmlaA_HC_U7XU0nnLH1S-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#eeeeee;strokeColor=#36393d;" target="gmlaA_HC_U7XU0nnLH1S-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-12" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#eeeeee;strokeColor=#36393d;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-23" y="-171" />
+              <mxPoint x="-23" y="-93" />
+            </Array>
+            <mxPoint x="-97.00000000000011" y="-171" as="sourcePoint" />
+            <mxPoint x="47.999999999999886" y="-92.99999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-15" edge="1" parent="1" source="gmlaA_HC_U7XU0nnLH1S-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#eeeeee;strokeColor=#36393d;" target="gmlaA_HC_U7XU0nnLH1S-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" value="Data product 1" vertex="1">
+          <mxGeometry height="60" width="120" x="-217" y="-201" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" value="Data product 2" vertex="1">
+          <mxGeometry height="60" width="120" x="-217" y="38" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" value="Data product 3" vertex="1">
+          <mxGeometry height="60" width="120" x="-217" y="142" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Business Glossary ( Bộ tiêu chuẩn)" vertex="1">
+          <mxGeometry height="60" width="671" x="-424" y="-299" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" value="Mô tả" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="-201" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" value="owner" vertex="1">
+          <mxGeometry height="60" width="120" x="48" y="-123" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Workflow ( Luồng phê duyệt)" vertex="1">
+          <mxGeometry height="60" width="671" x="-424" y="-386" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" value="..." vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="-39" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Complian Form Báo cáo audit" vertex="1">
+          <mxGeometry height="60" width="671" x="-424" y="-469" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Nội tại datahub" vertex="1">
+          <mxGeometry height="30" width="60" x="108" y="-458" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-22" edge="1" parent="1" source="gmlaA_HC_U7XU0nnLH1S-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gmlaA_HC_U7XU0nnLH1S-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-23" edge="1" parent="1" source="gmlaA_HC_U7XU0nnLH1S-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gmlaA_HC_U7XU0nnLH1S-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-24" edge="1" parent="1" source="gmlaA_HC_U7XU0nnLH1S-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gmlaA_HC_U7XU0nnLH1S-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" value="Application" vertex="1">
+          <mxGeometry height="60" width="120" x="-417" y="256" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" value="Mô tả" vertex="1">
+          <mxGeometry height="60" width="120" x="45" y="256" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" value="owner" vertex="1">
+          <mxGeometry height="60" width="120" x="43" y="334" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" value="..." vertex="1">
+          <mxGeometry height="60" width="120" x="45" y="418" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-30" edge="1" parent="1" source="gmlaA_HC_U7XU0nnLH1S-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gmlaA_HC_U7XU0nnLH1S-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-43" connectable="0" parent="gmlaA_HC_U7XU0nnLH1S-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;propose&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.3107" as="geometry">
+            <mxPoint x="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-48" edge="1" parent="1" source="gmlaA_HC_U7XU0nnLH1S-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gmlaA_HC_U7XU0nnLH1S-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-321" y="708" />
+              <mxPoint x="-321" y="878" />
+            </Array>
+            <mxPoint x="233" y="878" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-49" connectable="0" parent="gmlaA_HC_U7XU0nnLH1S-48" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="cancel" vertex="1">
+          <mxGeometry relative="1" x="-0.6602" y="-1" as="geometry">
+            <mxPoint x="-1" y="-43" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Mulish, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-weight: 700; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;AI Product Owner&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-457" y="678" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-33" edge="1" parent="1" source="gmlaA_HC_U7XU0nnLH1S-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gmlaA_HC_U7XU0nnLH1S-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-44" connectable="0" parent="gmlaA_HC_U7XU0nnLH1S-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;approval&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1736" y="1" as="geometry">
+            <mxPoint x="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-50" edge="1" parent="1" source="gmlaA_HC_U7XU0nnLH1S-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gmlaA_HC_U7XU0nnLH1S-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-83" y="708" />
+              <mxPoint x="-83" y="863" />
+            </Array>
+            <mxPoint x="233" y="863.0344827586209" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-51" connectable="0" parent="gmlaA_HC_U7XU0nnLH1S-50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(236, 236, 236);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20connectable%3D%220%22%20parent%3D%221%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20value%3D%22reject%22%20vertex%3D%221%22%3E%3CmxGeometry%20x%3D%22-321.97142857142853%22%20y%3D%22798.2571428571428%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.4698" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-52" connectable="0" parent="gmlaA_HC_U7XU0nnLH1S-50" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="reject" vertex="1">
+          <mxGeometry relative="1" x="-0.4361" y="2" as="geometry">
+            <mxPoint x="-13" y="-64" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-29" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Mulish, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-weight: 700; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;AI Risk Officer / AI Council&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-221" y="678" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-39" edge="1" parent="1" source="gmlaA_HC_U7XU0nnLH1S-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gmlaA_HC_U7XU0nnLH1S-38" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-45" connectable="0" parent="gmlaA_HC_U7XU0nnLH1S-39" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="COMPLETION / POST_ACTION" vertex="1">
+          <mxGeometry relative="1" x="-0.1257" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-32" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: Mulish, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-weight: 700; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;AI Legal and compliance&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-8" y="678" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-38" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="Display in UI" vertex="1">
+          <mxGeometry height="80" width="80" x="378" y="668" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div data-testid=&quot;workflow-item-c10c4381-7efd-4617-ad9e-e9e06b7a9449&quot; class=&quot;sc-ctXvTT feYmeN&quot; style=&quot;box-sizing: border-box; font-family: Mulish, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; display: flex; align-items: flex-start; gap: 8px; margin-left: 0px; padding: 8px; border-radius: 8px; cursor: pointer; transition: background-color 0.2s; color: rgba(0, 0, 0, 0.85); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div data-testid=&quot;workflow-name-c10c4381-7efd-4617-ad9e-e9e06b7a9449&quot; class=&quot;sc-egeiwU jFfgqc&quot; style=&quot;box-sizing: border-box; font-family: Mulish, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 14px; font-weight: 500; color: rgb(83, 63, 209); margin-bottom: 2px; display: flex; -webkit-box-align: center; align-items: center; gap: 4px; flex: 1 1 0%;&quot;&gt;AI Use Case Registration Workflow for Data product&lt;/div&gt;&lt;/div&gt;" link="&lt;div data-testid=&quot;workflow-item-c10c4381-7efd-4617-ad9e-e9e06b7a9449&quot; class=&quot;sc-ctXvTT feYmeN&quot; style=&quot;box-sizing: border-box; font-family: Mulish, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; display: flex; align-items: flex-start; gap: 8px; margin-left: 0px; padding: 8px; border-radius: 8px; cursor: pointer; transition: background-color 0.2s; color: rgba(0, 0, 0, 0.85); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div data-testid=&quot;workflow-name-c10c4381-7efd-4617-ad9e-e9e06b7a9449&quot; class=&quot;sc-egeiwU jFfgqc&quot; style=&quot;box-sizing: border-box; font-family: Mulish, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 14px; font-weight: 500; color: rgb(83, 63, 209); margin-bottom: 2px; display: flex; -webkit-box-align: center; align-items: center; gap: 4px; flex: 1 1 0%;&quot;&gt;AI Use Case Registration Workflow&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;16&quot; height=&quot;16&quot; fill=&quot;currentColor&quot; viewBox=&quot;0 0 256 256&quot;&gt;&lt;path d=&quot;M221.66,133.66l-72,72a8,8,0,0,1-11.32-11.32L196.69,136H40a8,8,0,0,1,0-16H196.69L138.34,61.66a8,8,0,0,1,11.32-11.32l72,72A8,8,0,0,1,221.66,133.66Z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/div&gt;&lt;/div&gt;&lt;div data-testid=&quot;workflow-item-c3c90421-c0d8-4357-b69b-406431cd6d5b&quot; class=&quot;sc-ctXvTT feYmeN&quot; style=&quot;box-sizing: border-box; font-family: Mulish, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; display: flex; align-items: flex-start; gap: 8px; margin-left: 0px; padding: 8px; border-radius: 8px; cursor: pointer; transition: background-color 0.2s; color: rgba(0, 0, 0, 0.85); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 500; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&lt;/div&gt;" id="gmlaA_HC_U7XU0nnLH1S-42">
+          <mxCell parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="57" width="365" x="-459" y="611" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-53" edge="1" parent="1" source="gmlaA_HC_U7XU0nnLH1S-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.021;entryY=0.319;entryDx=0;entryDy=0;entryPerimeter=0;" target="gmlaA_HC_U7XU0nnLH1S-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="129" y="708" />
+              <mxPoint x="129" y="844" />
+            </Array>
+            <mxPoint x="233" y="844" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-54" connectable="0" parent="gmlaA_HC_U7XU0nnLH1S-53" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="reject" vertex="1">
+          <mxGeometry relative="1" x="-0.0373" y="-1" as="geometry">
+            <mxPoint x="-40" y="-50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-55" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" value="end" vertex="1">
+          <mxGeometry height="80" width="80" x="384" y="818" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-57" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" value="start" vertex="1">
+          <mxGeometry height="80" width="80" x="-607" y="668" as="geometry" />
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-58" edge="1" parent="1" source="gmlaA_HC_U7XU0nnLH1S-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gmlaA_HC_U7XU0nnLH1S-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gmlaA_HC_U7XU0nnLH1S-60" edge="1" parent="1" source="gmlaA_HC_U7XU0nnLH1S-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.426;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" target="gmlaA_HC_U7XU0nnLH1S-55">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
